@@ -118,7 +118,7 @@
       <string>DIVIDE</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="PBCALCULAR">
+    <widget class="QPushButton" name="btncalcular">
      <property name="geometry">
       <rect>
        <x>32</x>

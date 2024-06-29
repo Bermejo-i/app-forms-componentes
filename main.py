@@ -1,0 +1,9 @@
+from controller.CalculadoraController import CalculadoraController
+from controller.MayorMenorController import MayorMenorController
+from controller.ComboSimpleController import ComboSimpleController
+from controller.ComboCascadaController import ComboCascadaController
+
+
+
+
+formulario = CalculadoraController()
